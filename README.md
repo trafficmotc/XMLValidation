@@ -6,11 +6,11 @@
 
 ## 平台提供教學範例
 
-- [ASP.NET範例程式碼](https://github.com/ptxmotc/Sample-code/tree/master/ASP.NET)
-- [Java範例程式碼](https://github.com/ptxmotc/Sample-code/tree/master/Java)
+- [ASP.NET範例程式碼](https://github.com/trafficmotc/XMLValidation/tree/master/ASP.NET)
+- [Java範例程式碼](https://github.com/trafficmotc/XMLValidation/tree/master/Java)
 
 ------
- [XML Schema資料驗證工具](https://ptx.transportdata.tw/PTX/XSDValidator/Validator)
+ [XML Schema資料驗證工具](https://traffic.transportdata.tw/Standard/XSD/Validator)
 
 
 
